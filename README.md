@@ -32,13 +32,13 @@ Desenvolvedor web!
   
 <div align="center" >
   <h3>Frameworks</h3>
-<img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=light"/>
+<img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=react,dotnet,bootstrap&theme=light"/>
   <img align="center" height="50" width="50" alt="java-icon" src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true"/>
 </div>
 
 <div align="center">
   <h3>Ferramentas</h3>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=visualstudio,vscode,git,postman,nodejs,react,unity&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=visualstudio,vscode,git,postman,nodejs,unity,vercel,github&theme=light"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light"/>
