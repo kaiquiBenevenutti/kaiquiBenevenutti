@@ -27,6 +27,11 @@ Desenvolvedor web!
   <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=cs,js&theme=light"/>
 </div>
 
+<div align="center">
+  <h3>Bibliotecas </h3>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=react&theme=light"/>
+</div>
+
 
 <div align="center" style="display: flex; justify-content: space-between; width: 100%">
   
