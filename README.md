@@ -43,8 +43,9 @@ Desenvolvedor Full-stack!
 
 <div align="center">
   <h3>Ferramentas</h3>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=visualstudio,vscode,git,postman,nodejs,vercel,github&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,webstorm,git,github,postman,nodejs,vercel&theme=light"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=wasm&theme=light"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light"/>
 </div>
