@@ -24,7 +24,7 @@ Desenvolvedor Full-stack!
 
 <div align="center">
   <h3>Linguagens </h3>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=cs,js,go&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=cs,js&theme=light"/>
 </div>
 
 <div align="center">
