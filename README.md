@@ -27,25 +27,26 @@ Desenvolvedor Full-stack!
   <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=cs,java,js&theme=light"/>
 </div>
 
-<div align="center">
-  <h3>Bibliotecas </h3>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=react&theme=light"/>
-</div>
-
-
 <div align="center" style="display: flex; justify-content: space-between; width: 100%">
   
 <div align="center" >
   <h3>Frameworks</h3>
-<img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=light"/>
-  <img align="center" height="50" width="50" alt="java-icon" src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true"/>
+  <img align="center"  alt="java-icon" src="https://go-skill-icons.vercel.app/api/icons?i=blazor&theme=light"/>
+<img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=dotnet,bootstrap,spring&theme=light"/>
+<img align="center" height="50" width="50" alt="java-icon" src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true"/>
+</div>
+
+<div align="center" >
+  <h3>Bancos de Dados</h3>
+  <img align="center"  alt="java-icon" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=light"/>
 </div>
 
 <div align="center">
   <h3>Ferramentas</h3>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=html,css,wasm,visualstudio,vscode,androidstudio,rider,webstorm,idea,git,github,postman,nodejs,vercel&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=html,css,wasm,maven,gradle,git,github,postman&theme=light"/>
+    <img align="center"  alt="java-icon" src="https://go-skill-icons.vercel.app/api/icons?i=swagger,gitkraken,tomcat&theme=light"/>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=vercel,visualstudio,vscode,androidstudio,rider,webstorm,idea&theme=light"/>
 </div>
 </div>
