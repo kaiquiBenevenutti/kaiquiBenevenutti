@@ -39,7 +39,7 @@ Desenvolvedor Full-stack!
 <div align="center" >
   <h3>Bancos de Dados</h3>
   <img align="center"  alt="java-icon" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark"/>
-  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=light"/>
+  <img align="center"  alt="java-icon" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light"/>
 </div>
 
 <div align="center">
