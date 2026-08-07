@@ -1,15 +1,27 @@
 
 <h3> Olá Mundo!</h3>
 
-Desenvolvedor Full-stack!
+Dev
 
 <div align="center">
-
   <a href="https://github.com/kaiquiBenevenutti">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=dark&"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  </a>
+</div>
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=dark"/>
+<div align="center">
+  <a href="https://github.com/kaiquiBenevenutti">
+    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=tokyonight&hide_border=true&border_radius=15"/>
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/kaiquiBenevenutti">
+    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
+    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=radical&hide_border=true&border_radius=15"/>
+  </a>
 </div>
 
 
