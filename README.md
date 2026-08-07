@@ -1,8 +1,4 @@
 
-<h3> Olá Mundo!</h3>
-
-Dev
-
 <div align="center">
   <a href="https://github.com/kaiquiBenevenutti">
     <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
