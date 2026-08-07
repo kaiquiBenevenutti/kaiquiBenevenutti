@@ -10,20 +10,6 @@ Dev
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/kaiquiBenevenutti">
-    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=tokyonight&hide_border=true&border_radius=15"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kaiquiBenevenutti">
-    <img height="190em" src="https://github-stats-extended.vercel.app/api?username=kaiquiBenevenutti&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
-    <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaiquiBenevenutti&layout=compact&langs_count=11&theme=radical&hide_border=true&border_radius=15"/>
-  </a>
-</div>
-
 
 <div align="center" >
   <h3>CONTATOS</h3>
